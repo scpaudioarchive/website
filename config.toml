@@ -1,0 +1,167 @@
+# Basic Configuration --
+baseURL = "https://scpaudioarchive.github.io"
+title   = "SCP Foundation Audio Archive"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+
+# General Configuration --
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+paginate  = 20
+#rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "Copyright 2020, SCP Foundation Audio Archive" # This message is only used by the RSS template.
+#googleAnalytics = "UA-177925831-1"
+#disqusShortname = ""
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+enableRobotsTXT = false
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+
+# Post Configuration --
+# Permalink
+
+[author]
+  name = "admin"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  #
+  description = "The SCP Foundation Audio Archive Podcast. Find all episodes and links here."
+  #keywords = ""
+  images = [""]
+
+  homeSubtitle = "Podcast | Social Media"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  #
+  # gitUrl = ""
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  #
+  disableReadOtherPosts = false
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = true
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  #
+  customCSS = []
+  customJS  = []
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  #
+  justifyContent = false  # Set "text-align: justify" to .post-content.
+  # Default theme "light" or "dark"
+  #
+  defaultTheme = "dark"
+  themeColor = "#252627"
+  # Custom footer
+  # If you want, you can easily override the default footer with your own content.
+  #
+   footerLeft = "<a href=\"https://scpaudioarchive.github.io/site-policy\">Site info & policy</a>"
+   footerRight = "<a href=\"https://scpaudioarchive.github.io/site-policy\">Made with &#10084;</a>"
+  # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#252627"
+    msapplication = "#252627"
+    theme = "#252627"
+  [params.logo]
+    logoText     = "SCP Foundation Audio Archive"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#808080"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+  # Uncomment this if you want a portrait on your start page
+  #
+   [params.portrait]
+     path     = "/files/coverart_small.jpg"
+     alt      = "Logo"
+     maxWidth = "140px"
+  # Social icons
+  [[params.social]]
+    name = "discord"
+    url  = "https://scpaudioarchive.github.io/go/discord"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/scpaudioarchive"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/scpaudioarchive"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/scpaudioarchivepod"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:scpfoundationaudioarchive@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/scpaudioarchive"
+
+[languages]
+  [languages.en]
+#    subtitle  = "Home"
+    weight    = 1
+    copyright = '<a href="https://scpaudioarchive.github.io/siteinfo" target="_blank" rel="noopener">(c) 2020</a>'
+
+#  [languages.fr]
+#    subtitle  = "Hello Friend NG Theme"
+#    weight    = 2
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    weight = 100
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+    weight = 200
+  [[menu.main]]
+    identifier = "live"
+    name       = "Live"
+    url        = "/live"
+    weight = 300
+  [[menu.main]]
+    identifier = "support"
+    name       = "Support"
+    url        = "/support"
+    weight = 400

@@ -1,0 +1,26 @@
+---
+os: linux
+dist: focal
+
+install:
+  - HVER=$(curl https://raw.githubusercontent.com/scpaudioarchive/hver-ci/main/current.txt)
+  - HURL="https://github.com/gohugoio/hugo/releases/download/v${HVER}/hugo_extended_${HVER}_Linux-64bit.deb"
+  - wget -O /tmp/hugo.deb $HURL
+  - sudo dpkg -i /tmp/hugo.deb
+
+script:
+  - hugo --gc --minify --destination="deploy"
+
+deploy:
+  - provider: script
+    script: bash deploy.sh
+    cleanup: false
+    skip_cleanup: true
+    on:
+      branch: main
+  - provider: script
+    script: bash testing.sh
+    cleanup: false
+    skip_cleanup: true
+    on:
+      branch: develop
