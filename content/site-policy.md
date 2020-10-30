@@ -26,12 +26,12 @@ Jump to:
 
 This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed with [Travis CI](https://travis-ci.com) and hosted with **[Github Pages](https://pages.github.com/)**.
 
-[Website docs and code available here](https://github.com/scpaudioarchive/scpaudioarchive-site#readme)
+[Website docs and code available here](https://github.com/scpaudioarchive/website-site#readme). Thanks to all contributors.
 
 # Site Policy
 
 ```
-Last updated: 2020-09-28
+Last updated: 2020-10-30
 ```
 
 Jump to:
