@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes + Blog Posts
 
-1. **[S2 Bonus 1: SCP-330: Take Only Two](/posts/s2/scp-330)**
+1. **[SCP-144: Tibetan Rope to Heaven](/posts/s2/scp-144)**
 
-2. *[SCP-143: The Bladewell Grove](/posts/s2/scp-143)*
+2. *[S2 Bonus 1: SCP-330: Take Only Two](/posts/s2/scp-330)*
 
-3. *_[SCP-142: One-Armed Bandit](/posts/s2/scp-142)_*
+3. *_[SCP-143: The Bladewell Grove](/posts/s2/scp-143)_*
 
 ---
 
