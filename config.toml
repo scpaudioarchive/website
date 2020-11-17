@@ -165,3 +165,11 @@ disableHugoGeneratorInject = false
     name       = "Support"
     url        = "/support"
     weight = 400
+
+
+# Fix raw html being ignored
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
