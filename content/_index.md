@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes + Blog Posts
 
-1. **[SCP-145: Man-Absorbing Phone](/posts/s2/scp-145)**
+1. **[SCP-147: Anachronistic Television](/posts/s2/scp-147)**
 
-2. *[SCP-144: Tibetan Rope to Heaven](/posts/s2/scp-144)*
+2. *[SCP-144: Bronze Head of Shame](/posts/s2/scp-146)*
 
-3. *_[S2 Bonus 1: SCP-330: Take Only Two](/posts/s2/scp-330)_*
+3. *_[SCP-145: Man-Absorbing Phone](/posts/s2/scp-145)_*
 
 ---
 
