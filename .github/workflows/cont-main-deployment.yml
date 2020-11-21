@@ -54,8 +54,7 @@ jobs:
             -m "" \
             -m "ID: $GITHUB_RUN_NUMBER using $GITHUB_WORKFLOW" \
             -m "From commit: $GITHUB_SHA w $GITHUB_REF" \
-            -m "B $GITHUB_ACTOR"
-            -m "" \
+            -m "B $GITHUB_ACTOR" \
             -m "scpfoundationaudioarchive" \
             || true
           git push --force-with-lease origin main
