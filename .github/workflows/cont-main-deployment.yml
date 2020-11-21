@@ -24,41 +24,43 @@ env:
 
 jobs:
   deployment_latest:
-    if: "!contains(github.event.head_commit.message,'[skip-ci]')"
     runs-on: ubuntu-latest
-    - steps:
-        - name: Setup (Latest)
-          - uses: actions/checkout@v2
-            with:
-              submodules: recursive
-            - run: |
-                wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_extended_${HUGO_VER}_Linux-64bit.deb"
-                sudo dpkg -i /tmp/hugo.deb
-                touch ~/.git-credentials
-                echo $GHPG_DEPLOY_KEY > ~/.git-credentials && chmod 0600 ~/.git-credentials
-                git config --global credential.helper store
-                git config --global user.email "scpfoundationaudioarchive@gmail.com"
-                git config --global user.name "scpfoundationaudioarchive"
-        - name: Build
-          - run: |
+    name: Main Deployment (Latest)
+    if: "!contains(github.event.head_commit.message,'[skip-ci]')"
+    steps:
+      - name: Checkout Site Repo
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - name: Setup (Latest)
+        run: |
+          wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_extended_${HUGO_VER}_Linux-64bit.deb"
+          sudo dpkg -i /tmp/hugo.deb
+          touch ~/.git-credentials
+          echo $GHPG_DEPLOY_KEY > ~/.git-credentials && ch0600 ~/.git-credentials
+          git config --global credential.helper store
+          git config --global user.email "scpfoundationaudioarchive@gmail.com"
+          git config --global user.name "scpfoundationaudioarchive"
+      - name: Build
+        run: |
               hugo --gc --minify --destination="build_s"
-        - name: Deploy to GH Pages
-          run: |
-            datev="$(date +'%Y-%m-%d %H:%M:%S %:::z')"
-            git clone -b main --depth 1 https://github.com/scpaudioarchive/scpaudioarchive.github.io.git deploy_ghp
-            rsync -av --delete --exclude ".git" build_s/ deploy_ghp
-            cd deploy_ghp
-            git remote set-url origin https://scpfoundationaudioarchive@github.com/scpaudioarchive.github.io.git
-            git add -A
-            git commit --amend \
-              -m "$datev deploy latest" \
-              -m "" \
-              -m "ID: $GITHUB_RUN_NUMBER using $GITHUB_WORKFLOW" \
-              -m "From commit: $GITHUB_SHA w $GITHUB_REF" \
-              -m "B $GITHUB_ACTOR"
-              -m "" \
-              -m "scpfoundationaudioarchive" \
-              || true
-            git push --force-with-lease origin main
-            cd ..
-            rm -rf build_s && rm -rf deploy_ghp
+      - name: Deploy to GH Pages
+        run: |
+          datev="$(date +'%Y-%m-%d %H:%M:%S %:::z')"
+          git clone -b main --depth 1 https://github.com/scpaudioarchive/scpaudioarchive.github.io.git deploy_ghp
+          rsync -av --delete --exclude ".git" build_s/ deploy_ghp
+          cd deploy_ghp
+          git remote set-url origin https://scpfoundationaudioarchive@github.com/scpaudioarchive.github.io.git
+          git add -A
+          git commit --amend \
+            -m "$datev deploy latest" \
+            -m "" \
+            -m "ID: $GITHUB_RUN_NUMBER using $GITHUB_WORKFLOW" \
+            -m "From commit: $GITHUB_SHA w $GITHUB_REF" \
+            -m "B $GITHUB_ACTOR"
+            -m "" \
+            -m "scpfoundationaudioarchive" \
+            || true
+          git push --force-with-lease origin main
+          cd ..
+          rm -rf build_s && rm -rf deploy_ghp
