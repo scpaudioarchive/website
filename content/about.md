@@ -12,7 +12,7 @@ Weekly SCP Readings, every Wednesdays and most Sundays.
 
 **Contact email: [scpfoundationaudioarchive AT gmail DOT com](mailto:scpfoundationaudioarchive@gmail.com)**
 
-Advertising: Contact me directly or [use this Reddit link](https://www.reddit.com/r/slavelabour/comments/j3d6fm/)
+Advertising: Please contact me directly via email.
 
 GPG Key + download: [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com)
 
