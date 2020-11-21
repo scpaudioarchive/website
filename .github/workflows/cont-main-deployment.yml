@@ -1,0 +1,60 @@
+# THIS IS A MESS...I DON'T KNOW WHAT I'M DOING > SEND HELP
+# File license: MIT??
+# TODO: Rename file to cont_main_dep.yml
+
+name: Continuous Main Deployment
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  push:
+    branches:
+      - main
+      - em/add-gh-actions
+#  For automated publishing ("future/ scheduled posts" using cron):
+#  schedule:
+#    - cron: ''
+
+env:
+  HUGO_VER: 0.78.2 # Always use the most recent version
+  HUGO_ENV: production
+  GHPG_DEPLOY_KEY: ${{ secrets.GHPAGESDEPLOYKEY }}
+
+jobs:
+  deployment_latest:
+    runs-on: ubuntu-latest
+    name: Main Deployment (Latest)
+    if: "!contains(github.event.head_commit.message,'[skip-ci]')"
+    steps:
+      - name: Checkout Site Repo
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - name: Setup (Latest)
+        run: |
+          wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_extended_${HUGO_VER}_Linux-64bit.deb"
+          sudo dpkg -i /tmp/hugo.deb
+          git config --global user.email "scpfoundationaudioarchive@gmail.com"
+          git config --global user.name "scpfoundationaudioarchive"
+      - name: Build
+        run: |
+              hugo --gc --minify --destination="build_s"
+      - name: Deploy to GH Pages
+        run: |
+          datev="$(date +'%Y-%m-%d %H:%M:%S %:::z')"
+          git clone -b main --depth 1 https://github.com/scpaudioarchive/scpaudioarchive.github.io.git deploy_ghp
+          rsync -av --delete --exclude ".git" build_s/ deploy_ghp
+          cd deploy_ghp
+          git remote set-url origin https://scpfoundationaudioarchive:$GHPG_DEPLOY_KEY@github.com/scpaudioarchive/scpaudioarchive.github.io.git
+          git add -A
+          git commit --amend \
+            -m "$datev deploy latest" \
+            -m "" \
+            -m "ID: $GITHUB_RUN_NUMBER using $GITHUB_WORKFLOW" \
+            -m "From commit: $GITHUB_SHA w $GITHUB_REF" \
+            -m "B $GITHUB_ACTOR" \
+            -m "scpfoundationaudioarchive" \
+            || true
+          git push --force-with-lease origin main
