@@ -37,7 +37,7 @@ jobs:
           wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_extended_${HUGO_VER}_Linux-64bit.deb"
           sudo dpkg -i /tmp/hugo.deb
           touch ~/.git-credentials
-          echo $GHPG_DEPLOY_KEY > ~/.git-credentials && ch0600 ~/.git-credentials
+          echo $GHPG_DEPLOY_KEY > ~/.git-credentials && chmod 0600 ~/.git-credentials
           git config --global credential.helper store
           git config --global user.email "scpfoundationaudioarchive@gmail.com"
           git config --global user.name "scpfoundationaudioarchive"
