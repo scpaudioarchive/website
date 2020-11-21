@@ -20,14 +20,13 @@ on:
 env:
   HUGO_VER: 0.78.2 # Always use the most recent version
   HUGO_ENV: production
+  GHPG_DEPLOY_KEY: ${{ secrets.GHPAGESDEPLOYKEY }}
 
 jobs:
   deployment_latest:
     name: Main Deployment (Latest)
     if: "!contains(github.event.head_commit.message,'[skip-ci]')"
     runs-on: ubuntu-latest
-    env:
-      GHPG_DEPLOY_KEY: ${{ secrets.GHPGDEPLOYKEY }}
     - steps:
         - name: Setup (Latest)
           - uses: actions/checkout@v2
