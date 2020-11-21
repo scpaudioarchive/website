@@ -1,7 +1,7 @@
 ---
 title: "Site Info + Policy"
 date: 2020-09-09
-lastmod: 2020-10-06
+lastmod: 2020-11-21
 draft: false
 comments: false
 slug: site-policy
@@ -24,9 +24,9 @@ Jump to:
 
 #### Site Info
 
-This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed with [Travis CI](https://travis-ci.com) and hosted with **[Github Pages](https://pages.github.com/)**.
+This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed [Github Actions](https://github.com/features/actions) and hosted with **[Github Pages](https://pages.github.com/)**.
 
-[Website docs and code available here](https://github.com/scpaudioarchive/website-site#readme). Thanks to all contributors.
+[Website code is available here](https://github.com/scpaudioarchive/website-site#readme). Thanks to all contributors.
 
 # Site Policy
 
