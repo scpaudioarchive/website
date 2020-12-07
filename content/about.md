@@ -8,7 +8,7 @@ comments: false
 
 Weekly SCP Readings, every Wednesdays and most Sundays.
 
-`Currently in Season 2, Series I [SCP-100 to SCP-150]`
+`Currently finished Season 2, Series I [SCP-100 to SCP-150]. Now doing bonuses (ex. listener suggestions).`
 
 **Contact email: [scpfoundationaudioarchive AT gmail DOT com](mailto:scpfoundationaudioarchive@gmail.com)**
 
