@@ -10,7 +10,6 @@ on:
   push:
     branches:
       - main
-      - em/add-gh-actions
 #  For automated publishing ("future/ scheduled posts" using cron):
 #  schedule:
 #    - cron: ''
