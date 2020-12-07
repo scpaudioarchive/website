@@ -1,4 +1,4 @@
-# Readme
+# SCP Foundation Audio Archive Website
 
 <div align="center">
 
@@ -16,10 +16,13 @@ Thank you for contributing!
 
 ## Prerequisites
 
-- [Hugo](https://github.com/gohugoio/hugo/releases/latest) -- Please install the extended version.
+- [Hugo](https://github.com/gohugoio/hugo/releases/latest) - extended version.
 
----
+Clone this repo: `git clone --recurse-submodules https://github.com/scpaudioarchive/website.git`
 
-PR's or contributions via **patches** welcome. Any questions? Join the [Discord server](https://scpaudioarchive.github.io/go/discord), or try emailing (listed on website).
+PR's are welcome, in most cases target **main**.
+
+Any questions? Join the [Discord server](https://scpaudioarchive.github.io/go/discord), or email me (listed on website/ `git log`).
 
 ## Thank you!
+
