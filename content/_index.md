@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes + Blog Posts
 
-1. **[SCP-148: The "Telekill" Alloy](/posts/s2/scp-148)**
+1. **[SCP-149: The BLood Flies](/posts/s2/scp-149)**
 
-2. *[SCP-147: Anachronistic Television](/posts/s2/scp-147)*
+2. *[SCP-148: The "Telekill" Alloy](/posts/s2/scp-148)*
 
-3. *_[SCP-144: Bronze Head of Shame](/posts/s2/scp-146)_*
+3. *_[SCP-147: Anachronistic Television](/posts/s2/scp-147)_*
 
 ---
 
