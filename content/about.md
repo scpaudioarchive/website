@@ -50,7 +50,7 @@ Unsubscribe: email `scpfoundationaudioarchive+unsubscribe@googlegroups.com`
 
 Our contributors, moderators, and admins are what helps make this community awesome.
 
-Code of Conducts are available and regularly reviewed on [Github](https://github.com/scpaudioarchive/scpaudioarchive).
+Code of Conducts/ Community Guidelines are available and regularly reviewed on [Github](https://github.com/scpaudioarchive/scpaudioarchive).
 
 ### Website Information and Policy
 

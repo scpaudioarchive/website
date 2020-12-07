@@ -13,7 +13,7 @@ ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED.
 PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 ```
 
-## Recent Episodes + Blog Posts
+## Recent Episodes
 
 1. **[SCP-149: The BLood Flies](/posts/s2/scp-149)**
 
@@ -22,6 +22,8 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 3. *_[SCP-147: Anachronistic Television](/posts/s2/scp-147)_*
 
 ---
+
+## Recent Blog Posts
 
 - [September Uploading Schedule](/posts/2020/09/12-sep-ep-schedule)
 - [Revamped Blog/ Website](/posts/2020/09/09-revamped-site)
