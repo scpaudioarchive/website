@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-149: The Blood Flies](/posts/s2/scp-149)**
+1. **[S2 Bonus 2 SCP-343: "God"](/posts/s2/scp-343)**
 
-2. *[SCP-148: The "Telekill" Alloy](/posts/s2/scp-148)*
+2. *[SCP-149: The Blood Flies](/posts/s2/scp-149)*
 
-3. *_[SCP-147: Anachronistic Television](/posts/s2/scp-147)_*
+3. *_[SCP-148: The "Telekill" Alloy](/posts/s2/scp-148)_*
 
 ---
 
