@@ -1,4 +1,4 @@
-# SCP Foundation Audio Archive Website
+# SCP Foundation Audio Archive's Website
 
 <div align="center">
 
@@ -17,6 +17,8 @@ Thank you for contributing!
 ## Prerequisites
 
 - [Hugo](https://github.com/gohugoio/hugo/releases/latest) - extended version.
+
+## Contributing
 
 Clone this repo: `git clone --recurse-submodules https://github.com/scpaudioarchive/website.git`
 
