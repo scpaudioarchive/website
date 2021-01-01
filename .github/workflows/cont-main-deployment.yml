@@ -13,7 +13,8 @@ on:
 #    - cron: ''
 
 env:
-  HUGO_VER: 0.79.1 # Always use the most recent version
+  HUGO_VER: 0.80.0 # Always use the most recent version, unless there are known issues
+  HUGO_ALT: 0.79.1 # Fallback, previous stable version, use for testing PRs/ etc?
   HUGO_ENV: production
   GHPG_DEPLOY_KEY: ${{ secrets.GHPAGESDEPLOYKEY }}
 
