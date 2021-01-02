@@ -24,14 +24,13 @@ Jump to:
 
 #### Site Info
 
-This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed [Github Actions](https://github.com/features/actions) and hosted with **[Github Pages](https://pages.github.com/)**.
+This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed with [GitHub Actions](https://github.com/features/actions) and hosted with **[GitHub Pages](https://pages.github.com/)**.
 
 [Website code is available here](https://github.com/scpaudioarchive/website-site#readme). Thanks to all contributors.
 
 # Site Policy
 
 ```
-Last updated: 2020-10-30
 Last updated: 2021-01-01
 ```
 
@@ -58,8 +57,7 @@ Permission is granted to temporarily download one copy of the materials on SCP F
 non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this
 license you may not:
 
-- modify or copy the materials;
-- use the materials for any commercial purpose or for any public display;
+- use the materials for any commercial purpose or for any unauthorized public display;
 - attempt to reverse engineer any software contained on SCP Foundation Audio Archive's Website;
 - remove any copyright or other proprietary notations from the materials; or
 - transfer the materials to another person or "mirror" the materials on any other server.
@@ -72,7 +70,7 @@ you should destroy any downloaded materials in your possession whether it is pri
 All media on this website (including but not limited to audios, photos, text, and videos) belong to and are copyrighted
 to SCP Foundation Audio Archive, **unless specified otherwise**. This website is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/). Please email and ask for permission before copying - [scpfoundationaudioarchive@gmail.com](mailto:scpfoundationaudioarchive@gmail.com). Unauthorized usage of any media without linking back to this site or crediting it is strictly prohibited under copyright law.
 
-Episodes are copyrighted differently. Please see the shownotes of each episode for more details.
+Episodes may be copyrighted differently. Please see the shownotes of each episode for more details.
 
 ## 3. Disclaimer
 
