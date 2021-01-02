@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: "Enter a description here"
 #summary: ""
-date: 2020-09-09
-#lastmod: 2020-09-09
+date: {{ .Date }}
+#lastmod: {{ .Date }}
 draft: true
 comments: true
 tags: [""]

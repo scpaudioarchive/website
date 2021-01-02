@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-#lastmod: 2020-09-09
+#lastmod: {{ .Date }
 draft: true
 comments: true
 tags: [""]
