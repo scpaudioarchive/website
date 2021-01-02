@@ -32,6 +32,7 @@ This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Frien
 
 ```
 Last updated: 2020-10-30
+Last updated: 2021-01-01
 ```
 
 Jump to:
@@ -112,15 +113,26 @@ you are agreeing to be bound by the current version of the Site Policy.
 
 ## 9. Your Privacy
 
-SCP Foundation Audio Archive does not share any personal information about how you use the site with third parties, and
-does not store any information about how you use this website.
+SCP Foundation Audio Archive does not share any personal information about how you use the site with third parties.
 
-Cookies may be stored to analyze and optimize your site experience. You can turn off the use of cookies at any
-time by modifying your browser settings.
+We use our own instance of [GoatCounter](https://www.goatcounter.com/) to collect a minimal amount of analytics, tracking statistics regarding our audience and website traffic. No personally identifiable information is ever collected or transferred.
 
-This website uses Google Analytics to track statistics regarding our audience and website traffic. No personally
-identifiable information is transferred from our website to Google Analytics. For more information, please
-click [here](https://www.google.com/intl/en/policies/privacy/).
+*The following is adapted from [GoatCounter’s Privacy Policy](https://www.goatcounter.com/privacy)*.
+
+The following information is collected:
+
+- URL of the visited page.
+- Referer header.
+- User-Agent header.
+- Screen size.
+- Country name based on IP address.
+- A hash of the IP address, User-Agent, and random number.
+
+No personal information (such as IP address) is collected; a hash of the IP address, User-Agent, and a random number (“salt”) is kept in the process memory for 8 hours at the most to identify a browsing session.
+
+The exception to this are requests which are deemed to be coming from a bot, in which case the IP address will be stored temporarily for the purpose of blocking botnets, hosting providers, and other types of abuse.
+
+There is no information stored in the browser with e.g. cookies.
 
 ## 10. Governing Law
 
