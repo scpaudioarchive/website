@@ -16,7 +16,7 @@ Thank you for contributing!
 
 ## Prerequisites
 
-- [Hugo](https://github.com/gohugoio/hugo/releases/latest) - extended version.
+- [Hugo](https://github.com/gohugoio/hugo/releases/latest) - extended version required
 
 ## Contributing
 
