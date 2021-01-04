@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Discord](https://img.shields.io/discord/707272860393144381)
-![Continuous Main Deployment](https://github.com/scpaudioarchive/website/workflows/Continuous%20Main%20Deployment/badge.svg)
+![CI / CD](https://github.com/scpaudioarchive/website/workflows/CI%20/%20CD/badge.svg?branch=main)
 ![GitHub deployments](https://img.shields.io/github/deployments/scpaudioarchive/scpaudioarchive.github.io/github-pages)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/scpaudioarchive/website)
