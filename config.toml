@@ -84,8 +84,8 @@ disableHugoGeneratorInject = false
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
-   footerLeft = "<a href=\"https://scpaudioarchive.github.io/site-policy\">Site info & policy</a>"
-   footerRight = "<a href=\"https://scpaudioarchive.github.io/site-policy\">Made with &#10084;</a>"
+   footerLeft = "<a href=\"/site-policy\">Site info & policy</a>"
+   footerRight = "<a href=\"/site-policy\">Made with &#10084;</a>"
   # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
   # Colors for favicons
   #
@@ -137,7 +137,7 @@ disableHugoGeneratorInject = false
   [languages.en]
 #    subtitle  = "Home"
     weight    = 1
-    copyright = '<a href="https://scpaudioarchive.github.io/siteinfo" target="_blank" rel="noopener">(c) 2020</a>'
+    copyright = '<a href="/site-policy" target="_blank" rel="noopener">(c) 2020</a>'
 
 #  [languages.fr]
 #    subtitle  = "Hello Friend NG Theme"
