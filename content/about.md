@@ -44,14 +44,12 @@ Consider white-listing/ marking emails from `scpfoundationaudioarchive@googlegro
 
 Unsubscribe: email `scpfoundationaudioarchive+unsubscribe@googlegroups.com`
 
---
+---
 
 ## Policies and Guidelines
 
-Our contributors, moderators, and admins are what helps make this community awesome.
-
-Code of Conducts/ Community Guidelines are available and regularly reviewed on [Github](https://github.com/scpaudioarchive/scpaudioarchive).
+Our Community Guidelines are available and regularly reviewed on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive).
 
 ### Website Information and Policy
 
-[Site Policy](/site-policy#site-policy)
+[Site Policy](/site-policy)
