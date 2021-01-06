@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[S2 Bonus 4 SCP-161: Pinwheel of Doom!](/posts/s2/scp-161)**
+1. **[S2 Bonus 5 SCP-2165: Irredeemable](/posts/s2/scp-2165)**
 
-2. *[S2 Bonus 3 SCP-1313: Solve For Bear](/posts/s2/scp-1313)*
+2. *[S2 Bonus 4 SCP-161: Pinwheel of Doom!](/posts/s2/scp-161)*
 
-3. *_[S2 Bonus 2 SCP-343: "God"](/posts/s2/scp-343)_*
+3. *_[S2 Bonus 3 SCP-1313: Solve For Bear](/posts/s2/scp-1313)_*
 
 ---
 
