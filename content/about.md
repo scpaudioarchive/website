@@ -3,7 +3,6 @@ title: "About"
 date: 2020-09-08
 draft: false
 comments: false
-#description: "SCP Foundation Audio Archive. Weekly SCP Readings, every Wednesdays and most Sundays."
 ---
 
 Weekly SCP Readings, every Wednesdays and most Sundays.
@@ -14,7 +13,7 @@ Weekly SCP Readings, every Wednesdays and most Sundays.
 
 Advertising: Please contact me directly via email.
 
-GPG Key + download: [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com)
+GPG Key + download: Available on the [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com). Renewed regularly, attach your key or have it accessible in some way.
 
 ---
 
@@ -30,7 +29,7 @@ GPG Key + download: [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfou
 
 ## Policies and Guidelines
 
-Our Community Guidelines are available and regularly reviewed on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive).
+Available on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive), issues, PRs and patches welcome.
 
 ### Website Information and Policy
 
