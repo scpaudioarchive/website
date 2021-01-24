@@ -5,7 +5,6 @@ lastmod: 2020-11-21
 draft: false
 comments: false
 slug: site-policy
-#description: "Site information - SCP Foundation Audio Archive"
 alias:
   - /siteinfo
 ---
@@ -24,9 +23,9 @@ Jump to:
 
 #### Site Info
 
-This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** ~~[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)~~ theme, deployed with [GitHub Actions](https://github.com/features/actions) and hosted with **[GitHub Pages](https://pages.github.com/)**.
+This site was built with **[Hugo](https://gohugo.io/)** using the **[Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)** theme, deployed with [GitHub Actions](https://github.com/features/actions) and hosted with **[GitHub Pages](https://pages.github.com/)**.
 
-[Website code is available here](https://github.com/scpaudioarchive/website-site#readme). Thanks to all contributors.
+The website's code is [available here](https://github.com/scpaudioarchive/website-site#readme). Discussion, improvements as issues, patches or PRs are welcome!
 
 # Site Policy
 
@@ -51,7 +50,7 @@ Jump to:
 By accessing this Website, accessible from https://scpaudioarchive.github.io/ , you
 are agreeing to be bound by the site policy and agree that you are responsible for personal agreement with any
 applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site.
-The materials contained in this Website are protected by copyright law.​
+The materials contained in this Website are protected by copyright law.
 
 Permission is granted to temporarily download one copy of the materials on SCP Foundation Audio Archive's Website for personal,
 non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this
