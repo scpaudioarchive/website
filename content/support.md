@@ -4,7 +4,6 @@ date: 2020-09-09
 draft: false
 comments: false
 slug: support
-#description: "Support the podcast via Patreon, Paypal, and Ko-Fi. SCP Foundation Audio Archive"
 ---
 
 This allows me to continue the podcast, pay for expenses related, and upgrade equipment. Thanks to all my former and current patrons and donors!
@@ -36,6 +35,4 @@ This allows me to continue the podcast, pay for expenses related, and upgrade eq
   - Shout-out in credits at the end of **each** episode
 
 ## [Join Level 5](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614370)
-* Everything in the previous tier
-* Additionally:
-  - ????
+* Everything in the previous tier. Thank you for your support!
