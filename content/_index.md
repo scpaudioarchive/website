@@ -56,7 +56,3 @@ Available on **[YouTube](/go/yt)** and all podcast apps. **New episodes on Wedne
 #### [Live Events](/live)
 #### [Suggest an Episode](/suggest)
 #### [About + Contact](/about)
-
----
-
-### [Subscribe to the monthly newsletter](/about#newsletter)

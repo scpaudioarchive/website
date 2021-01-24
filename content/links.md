@@ -24,7 +24,6 @@ Follow on:
 [Twitter](https://twitter.com/scpaudioarchive) --
 [Instagram](https://www.instagram.com/scpaudioarchive/) --
 [Github](https://github.com/scpaudioarchive) --
-[Join the monthly newsletter](/about#newsletter)
 
 ---
 

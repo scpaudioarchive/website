@@ -28,24 +28,6 @@ GPG Key + download: [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfou
 
 ---
 
-## Newsletter
-
-[Subscribe here with a Google account and view past emails](https://groups.google.com/g/scpfoundationaudioarchive) -- [Alternate link](https://groups.google.com/forum/#!forum/scpfoundationaudioarchive)
-
-Be sure to choose "every email".
-
-If you don't have a Google account, send a blank email to `scpfoundationaudioarchive+subscribe@googlegroups.com` to subscribe.
-
-- Check your junk/ spam folder immediately after for a confirmation link.
-
-The subscribers list is only available to the administrator(s).
-
-Consider white-listing/ marking emails from `scpfoundationaudioarchive@googlegroups.com` safe.
-
-Unsubscribe: email `scpfoundationaudioarchive+unsubscribe@googlegroups.com`
-
----
-
 ## Policies and Guidelines
 
 Our Community Guidelines are available and regularly reviewed on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive).
