@@ -25,9 +25,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Blog Posts
 
+- [February 2021 Monthly Livestream Recap](/posts/2021/02-07-feb-livestream-recap)
 - [Season 2 Compilation](/posts/2020/12/09-season-2-compilation)
 - [September Uploading Schedule](/posts/2020/09/12-sep-ep-schedule)
-- [Revamped Blog/ Website](/posts/2020/09/09-revamped-site)
 
 ---
 
