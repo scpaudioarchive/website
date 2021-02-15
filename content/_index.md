@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[S2 Bonus 7 SCP-2130: Office Furniture](/posts/s2/scp-2130)**
+1. **[S2 Bonus 8 SCP-087: The Stairwell](/posts/s2/scp-087)**
 
-2. *[S2 Bonus 6 SCP-026: Afterschool Retention](/posts/s2/scp-026)*
+2. *[S2 Bonus 7 SCP-2130: Office Furniture](/posts/s2/scp-2130)*
 
-3. *_[S2 Bonus 5 SCP-2165: Irredeemable](/posts/s2/scp-2165)_*
+3. *_[S2 Bonus 6 SCP-026: Afterschool Retention](/posts/s2/scp-026)_*
 
 ---
 
