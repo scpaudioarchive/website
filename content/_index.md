@@ -15,7 +15,7 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[S2 Bonus 9 SCP-2038 (Final): Take On Me](/posts/s2/scp-2038)**
+1. **[S2 Bonus 9 SCP-2038 (Final): Take On Me](/posts/s2/scp-3028)**
 
 2. *[S2 Bonus 8 SCP-087: The Stairwell](/posts/s2/scp-087)*
 
