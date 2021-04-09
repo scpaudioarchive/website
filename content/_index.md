@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-3004: Imago](/posts/s3/scp-3004)**
+1. **[SCP-3005: A Light That Died](/posts/s3/scp-3005)**
 
-2. *[S2 Bonus 9 SCP-2038 (Final): Take On Me](/posts/s2/scp-3028)*
+2. *[SCP-3004: Imago](/posts/s3/scp-3004)*
 
-3. *_[S2 Bonus 8 SCP-087: The Stairwell](/posts/s2/scp-087)_*
+3. *_[S2 Bonus 9 SCP-2038 (Final): Take On Me](/posts/s2/scp-3028)_*
 
 ---
 
