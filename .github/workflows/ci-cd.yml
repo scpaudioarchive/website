@@ -27,7 +27,7 @@ jobs:
   # Skip messages with [skip ci] in title of head commit message
     strategy:
       matrix:
-        hugo_ver: ['0.80.0', 'latest'] # use latest and test a slightly older version without known issues
+        hugo_ver: ['0.82.1', 'latest'] # use latest and test a slightly older version without known issues
     steps:
     - name: Clone
       uses: actions/checkout@v2
