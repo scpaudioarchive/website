@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-3024: The Doxx Ghost](/posts/s3/scp-3024)**
+1. **[SCP-3030: Specialized Containment Proficiency Test]**
 
-2. *[SCP-3021: Q=](/posts/s3/scp-3021)*
+2. *[SCP-3024: The Doxx Ghost](/posts/s3/scp-3024)*
 
-3. *_[SCP-3006: Twice the Number One](/posts/s3/scp-3006)_*
+3. *_[SCP-3021: Q=](/posts/s3/scp-3021)_*
 
 ---
 
