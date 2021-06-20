@@ -11,7 +11,9 @@ Weekly SCP Readings. New episodes Wednesdays/ Sundays.
 
 Advertising: Please contact me directly via email.
 
-GPG Key + download: Available on the [OpenPGP Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com). Renewed regularly, attach your key or have it accessible in some way.
+GPG Key + download: Available on the [OpenPGP
+Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com). Renewed
+regularly, please remember to attach your own key or have it accessible in some way.
 
 ---
 
