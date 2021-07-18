@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-3047: To Be Drowned by A Train](/posts/s3/scp-3047)**
+1. **[SCP-076-J: IN OWN WORDS](/posts/s3/scp-076-j)**
 
-2. *[SCP-3046: Model TH-223](/posts/s3/scp-3046)*
+2. *[SCP-3047: To Be Drowned by A Train](/posts/s3/scp-3047)*
 
-3. *_[SCP-3044: Evolution in a Bottle](/posts/s3/scp-3044)_*
+3. *_[SCP-3046: Model TH-223](/posts/s3/scp-3046)_*
 
 ---
 
