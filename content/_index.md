@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-404-J: The Pantheon](/posts/s3/scp-404-j)**
+1. **[SCP-3472-J: In time, you will come to hate me.](/posts/s3/scp-3472-j)**
 
-2. *[SCP-076-J: IN OWN WORDS](/posts/s3/scp-076-j)*
+2. *[SCP-404-J: The Pantheon](/posts/s3/scp-404-j)*
 
-3. *_[SCP-3047: To Be Drowned by A Train](/posts/s3/scp-3047)_*
+3. *_[SCP-076-J: IN OWN WORDS](/posts/s3/scp-076-j)_*
 
 ---
 
