@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1002: Demisers](/posts/s4/scp-1002)**
+1. **[SCP-1003: Tapeworm Child](/posts/s4/scp-1003)**
 
-2. *[SCP-3472-J: In time, you will come to hate me.](/posts/s3/scp-3472-j)*
+2. *[SCP-1002: Demisers](/posts/s4/scp-1002)*
 
-3. *_[SCP-404-J: The Pantheon](/posts/s3/scp-404-j)_*
+3. *_[SCP-3472-J: In time, you will come to hate me.](/posts/s3/scp-3472-j)_*
 
 ---
 
