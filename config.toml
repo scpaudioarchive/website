@@ -4,24 +4,24 @@ title   = "SCP Foundation Audio Archive"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-
-# General Configuration --
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 paginate  = 20
 #rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "Copyright 2020, SCP Foundation Audio Archive" # This message is only used by the RSS template.
-#googleAnalytics = "UA-177925831-1"
-#disqusShortname = ""
+copyright = "Copyright 2020-2021, SCP Foundation Audio Archive" # This message is only used by the RSS template.
+
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
+
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
+
 canonifyURLs = true
+
 enableRobotsTXT = false
 enableGitInfo   = false
 enableEmoji     = true
@@ -30,10 +30,6 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-
-
-# Post Configuration --
-# Permalink
 
 [author]
   name = "admin"
@@ -54,7 +50,7 @@ disableHugoGeneratorInject = false
   #keywords = ""
   images = [""]
 
-  homeSubtitle = "Podcast | Social Media"
+  # homeSubtitle = "Podcast | Social Media"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -81,12 +77,17 @@ disableHugoGeneratorInject = false
   #
   defaultTheme = "dark"
   themeColor = "#252627"
-  # Custom footer
-  # If you want, you can easily override the default footer with your own content.
-  #
-   footerLeft = "<a href=\"/site-policy\">Site info & policy</a>"
-   footerRight = "<a href=\"/site-policy\">Made with &#10084;</a>"
-  # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+
+  [params.footer]
+    trademark = false
+    rss = true
+    copyright = true
+    author = false
+#    bottomText = [
+#      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+#      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+#    ]
+
   # Colors for favicons
   #
   [params.favicon.color]
@@ -104,10 +105,11 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
   # Uncomment this if you want a portrait on your start page
   #
-   [params.portrait]
-     path     = "/files/coverart_small.jpg"
-     alt      = "Logo"
-     maxWidth = "140px"
+  [params.portrait]
+    path     = "/files/coverart_small.jpg"
+    alt      = "Logo"
+    maxWidth = "140px"
+
   # Social icons
   [[params.social]]
     name = "discord"
@@ -135,14 +137,8 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-#    subtitle  = "Home"
     weight    = 1
-    copyright = '<a href="/site-policy" target="_blank" rel="noopener">(c) 2020</a>'
-
-#  [languages.fr]
-#    subtitle  = "Hello Friend NG Theme"
-#    weight    = 2
-#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="/site-policy" target="_blank" rel="noopener">(c) 2020-2021</a>'
 
 [menu]
   [[menu.main]]
@@ -165,7 +161,6 @@ disableHugoGeneratorInject = false
     name       = "Support"
     url        = "/support"
     weight = 400
-
 
 # Fix raw html being ignored
 # https://gohugo.io/news/0.60.0-relnotes/
