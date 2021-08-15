@@ -16,10 +16,8 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 ## Recent Episodes
 
 1. **[SCP-1007: Mr. Life and Mr. Death](/posts/s4/scp-1007)**
-
 2. *[SCP-1006: Spider Proletariat](/posts/s4/scp-1006)*
-
-3. *_[SCP-1005: The Painted Man](/posts/s4/scp-1005)_*
+3. *[SCP-1005: The Painted Man](/posts/s4/scp-1005)*
 
 ---
 
@@ -51,8 +49,8 @@ Available on **[YouTube](/go/yt)** and all podcast apps. **New episodes on Wedne
 
 ## Links
 
-#### [Episodes](/posts)
-#### [Support](/support)
-#### [Live Events](/live)
-#### [Suggest an Episode](/suggest)
-#### [About + Contact](/about)
+- [Episodes](/posts)
+- [Support](/support)
+- [Live Events](/live)
+- [Suggest an Episode](/suggest)
+- [About + Contact](/about)
