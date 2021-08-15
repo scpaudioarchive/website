@@ -14,13 +14,17 @@
 
 # Prerequisites
 
+- [Nix][4]
 - [Hugo][0] - extended version
 
 # Contributing
 
 Broken link? File an [issue][1] or let someone know in [Discord][2].
 
-Clone this repository: `git clone --recurse-submodules https://github.com/scpaudioarchive/website.git`
+Clone this repository: `git clone
+https://github.com/scpaudioarchive/website.git`
+
+Run a `nix-shell` or use `direnv`!
 
 PR's (target `main` in most cases) or patches are welcome (email in [contact
 page][3] or `git log`).
@@ -37,3 +41,4 @@ Follow general Markdown best practices and those of Goldmark, which is Hugo's Ma
 [1]: https://github.com/scpaudioarchive/website/issues/new
 [2]: https://scpaudioarchive.github.io/go/discord
 [3]: https://scpaudioarchive.github.io/about
+[4]: https://nixos.org
