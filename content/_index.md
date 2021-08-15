@@ -15,11 +15,11 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1006: Spider Proletariat](/posts/s4/scp-1006)**
+1. **[SCP-1007: Mr. Life and Mr. Death](/posts/s4/scp-1007)**
 
-2. *[SCP-1005: The Painted Man](/posts/s4/scp-1005)*
+2. *[SCP-1006: Spider Proletariat](/posts/s4/scp-1006)*
 
-3. *_[SCP-1003: Tapeworm Child](/posts/s4/scp-1003)_*
+3. *_[SCP-1005: The Painted Man](/posts/s4/scp-1005)_*
 
 ---
 
