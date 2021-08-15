@@ -31,8 +31,7 @@ jobs:
         submodules: recursive
     - name: Build site
       uses: cachix/install-nix-action@v13
-      run: |
-        nix-shell --run "hugo --minify --destination="build""
+    - run: nix-shell --run "hugo --minify --destination="build""
     - name: Possibly Upload Artifacts
       uses: actions/upload-artifact@v2
       with:
