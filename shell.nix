@@ -14,7 +14,7 @@ let
     pinned = builtins.fetchGit {
       url = "https://github.com/rhazdon/hugo-theme-hello-friend-ng";
       ref = "refs/heads/master";
-      rev = "44e11417bb18943d6612042b0f92055c47c07dfa";
+      rev = "bc5c57112c3475d5292c6a6e34766d50b8e568b8";
     };
 
     patches = [ ];
