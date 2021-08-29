@@ -1,7 +1,7 @@
 let
      nixpkgs = builtins.fetchTarball {
-       # Hugo 0.84.1
-       url = "https://github.com/NixOS/nixpkgs/archive/860b56be91fb874d48e23a950815969a7b832fbc.tar.gz";
+       # Hugo 0.87.0
+       url = "https://github.com/NixOS/nixpkgs/archive/d258316fba32587b63f1efa14df1f25a50fd25e3.tar.gz";
      };
 
 in
