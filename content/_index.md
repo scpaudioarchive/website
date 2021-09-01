@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1010: The Green Man](/posts/s4/scp-1010)**
-2. *[SCP-1009: The Beautiful World](/posts/s4/scp-1009)*
-3. *[SCP-1007: Mr. Life and Mr. Death](/posts/s4/scp-1007)*
+1. **[SCP-1011: Humanization Process](/posts/s4/scp-1011)**
+2. *[SCP-1010: The Green Man](/posts/s4/scp-1010)*
+3. *[SCP-1009: The Beautiful World](/posts/s4/scp-1009)*
 
 ---
 
