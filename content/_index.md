@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1023: The Glass Seismograph](/posts/s4/scp-1023)**
-2. *[SCP-1022: Suspiciously Clean Coat](/posts/s4/scp-1022)*
-3. *[SCP-1021: Exit](/posts/s4/scp-1021)*
+1. **[SCP-1024: The Basic Set](/posts/s4/scp-1024)**
+2. *[SCP-1023: The Glass Seismograph](/posts/s4/scp-1023)*
+3. *[SCP-1022: Suspiciously Clean Coat](/posts/s4/scp-1022)*
 
 ---
 
