@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1029: Scratch 'n' Sniff JPEG](/posts/s4/scp-1029)**
-2. *[SCP-1024: The Basic Set](/posts/s4/scp-1024)*
-3. *[SCP-1023: The Glass Seismograph](/posts/s4/scp-1023)*
+1. **[SCP-1033: 33 Second Man](/posts/s4/scp-1033)**
+2. *[SCP-1029: Scratch 'n' Sniff JPEG](/posts/s4/scp-1029)*
+3. *[SCP-1024: The Basic Set](/posts/s4/scp-1024)*
 
 ---
 
