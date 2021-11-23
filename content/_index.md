@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1048: Builder Bear](/posts/s4/scp-1048)**
-2. *[SCP-1037: Rotbolt](/posts/s4/scp-1037)*
-3. *[SCP-1033: 33 Second Man](/posts/s4/scp-1033)*
+1. **[SCP-1049: The Bonetaker Owl](/posts/s4/scp-1049)**
+2. *[SCP-1048: Builder Bear](/posts/s4/scp-1048)*
+3. *[SCP-1037: Rotbolt](/posts/s4/scp-1037)*
 
 ---
 
