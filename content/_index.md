@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1102: The Blue Ridge Phenomenon](/posts/s4/scp-1102)**
-2. *[SCP-1049: The Bonetaker Owl](/posts/s4/scp-1049)*
-3. *[SCP-1048: Builder Bear](/posts/s4/scp-1048)*
+1. **[SCP-1103: Dr. Wondertainment Young Surgeon's Transplant Kit](/posts/s4/scp-1103)**
+2. *[SCP-1102: The Blue Ridge Phenomenon](/posts/s4/scp-1102)*
+3. *[SCP-1049: The Bonetaker Owl](/posts/s4/scp-1049)*
 
 ---
 
