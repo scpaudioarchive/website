@@ -7,14 +7,18 @@ slug: live
 ---
 
 - [Upcoming and Past Events](#upcoming-and-past-events)
-- [Join in - Room information](#room-info)
+	- [Monthly View](#monthly-view)
+- [Room Info](#room-info)
+	- [Disclaimer](#disclaimer)
 - [Youtube Live Archive Playlist](#youtube-live-archive-playlist)
 
 &nbsp;
 
-I try to do regular live-streams (at least once a month) that you can watch on Youtube/ Discord, and also for all my [Patrons](/support). Most of the time, you will be able to [join in](#room-info)!
+**Due to school and other commitments, I currently have less time to do live events.**
 
-I try to make [announcements everywhere](/links#socials), and past and future events will be scheduled here! Links to join in the event description.
+I try to do regular live-streams (at least once a month) that you can watch on Youtube/ Discord/ Zoom, and also for all my [Patrons](/support). Most of the time, you will be able to [join in](#room-info)!
+
+Events are also created on Discord and the calendar below. Links to join in are in the event description.
 
 My home timezone is `UTC-5` (`EST/EDT` America/Toronto). Events should be listed in *your own timezone*. Please let me know if this is not the case!
 
@@ -34,13 +38,17 @@ You can also **view/ add** this to your own Google Calendar ([link](https://cale
 
 ## Room Info
 
-Typically the Main Room is used for livestreams. However, check the event calendar for the most updated information, including where a watch-only livestream can be found (usually on YouTube).
+We are using Zoom. You can download it [here](https://zoom.us/download), and we recommend creating an account, signing in, updating your settings, and familiarizing yourself if you haven't used it before. This [guide](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users#h_144eaba0-932a-46d8-aeb5-e75df532394e) may be useful.
 
-| Room Name | Join Link | Max capacity |
-| ----------------- | -------------- | ------------- |
-| SCPFAA Main Room | https://meet.nixnet.services/b/scp-ved-ga9 | ~50 |
+### Disclaimer
+
+Zoom meetings may be livestreamed or recorded and be made available either internally (to staff) or publicly. You may want to adjust your name, and the "hide profile photos" option should be enabled in the meeting (message the host if not). You will show in the recording if you have your video on, unmute your microphone, or share screen/ audio.
+
+It is encouraged to [share your pronouns](https://support.zoom.us/hc/en-us/articles/4402698027533-Adding-and-sharing-your-pronouns), they should not be visible in the livestream or recording.
 
 ## Youtube Live Archive Playlist
+
+Recordings may be available on the [SCPFAA Internal](https://www.youtube.com/channel/UCUtf8-Sfa3Xknpfh1oZUsIw) channel (used by staff). The following playlist is from the main channel:
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLg9w-hysP5nJWhTutmxsSHB90znXrOIHu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
