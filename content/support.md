@@ -6,13 +6,12 @@ comments: false
 slug: support
 ---
 
-This allows me to continue the podcast, pay for expenses related, and upgrade equipment. Thanks to all my former and current patrons and donors!
+This allows me to continue the podcast, pay for expenses related to the podcast and personal ones (as I head off to university this summer), and upgrade equipment. Thanks to all my former and current patrons and donors!
 
 ## One-time
 
-## [Paypal](http://paypal.me/scpaudioarchive)
-
-## [Ko-Fi](https://ko-fi.com/scpaudioarchive)
+- **[Paypal](http://paypal.me/scpaudioarchive)</h2>**
+- **[Ko-Fi](https://ko-fi.com/scpaudioarchive)</h2>**
 
 # **[Patreon](http://patreon.com/scpaudioarchive)** (Recurring)
 
