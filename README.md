@@ -35,8 +35,7 @@ Any questions? Join the [Discord server][2], or [email][3] me.
 
 ### Markdown
 
-Follow general Markdown best practices and those of Goldmark, which is Hugo's
-Markdown engine/ parser. Use inline HTML only if necessary and appropriate. You
+Use inline HTML only if necessary and appropriate. You
 may just insert it or use the "rawhtml" shortcode.
 
 [0]: https://github.com/gohugoio/hugo/releases/latest

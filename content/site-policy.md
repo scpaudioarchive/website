@@ -1,7 +1,7 @@
 ---
 title: "Site Info + Policy"
 date: 2020-09-09
-lastmod: 2020-11-21
+lastmod: 2021-11-29
 draft: false
 comments: false
 slug: site-policy
@@ -30,7 +30,7 @@ The website's code is [available here](https://github.com/scpaudioarchive/websit
 # Site Policy
 
 ```
-Last updated: 2021-01-01
+Last updated: 2021-11-29
 ```
 
 Jump to:
@@ -110,24 +110,8 @@ you are agreeing to be bound by the current version of the Site Policy.
 
 ## 9. Your Privacy
 
-SCP Foundation Audio Archive does not share any personal information about how you use the site with third parties.
-
-We use our own instance of [GoatCounter](https://www.goatcounter.com/) to collect a minimal amount of analytics, tracking statistics regarding our audience and website traffic. No personally identifiable information is ever collected or transferred.
-
-*The following is adapted from [GoatCounter’s Privacy Policy](https://www.goatcounter.com/privacy)*.
-
-The following information is collected:
-
-- URL of the visited page.
-- Referer header.
-- User-Agent header.
-- Screen size.
-- Country name based on IP address.
-- A hash of the IP address, User-Agent, and random number.
-
-No personal information (such as IP address) is collected; a hash of the IP address, User-Agent, and a random number (“salt”) is kept in the process memory for 8 hours at the most to identify a browsing session.
-
-The exception to this are requests which are deemed to be coming from a bot, in which case the IP address will be stored temporarily for the purpose of blocking botnets, hosting providers, and other types of abuse.
+SCP Foundation Audio Archive does not share any personal information about how you use the site with third parties. We currently
+host the site with GitHub Pages.
 
 There is no information stored in the browser with e.g. cookies.
 
