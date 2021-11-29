@@ -1,7 +1,7 @@
 let
      nixpkgs = builtins.fetchTarball {
-       # Hugo 0.87.0
-       url = "https://github.com/NixOS/nixpkgs/archive/d258316fba32587b63f1efa14df1f25a50fd25e3.tar.gz";
+       # Hugo 0.88.1
+       url = "https://github.com/NixOS/nixpkgs/archive/17d1c041284844c731f61cb3ecb3735f2bf33aab.tar.gz";
      };
 
 in
@@ -14,7 +14,7 @@ let
     pinned = builtins.fetchGit {
       url = "https://github.com/rhazdon/hugo-theme-hello-friend-ng";
       ref = "refs/heads/master";
-      rev = "bc5c57112c3475d5292c6a6e34766d50b8e568b8";
+      rev = "848b6879b3a2a201510bd11dadf37826ee038616";
     };
 
     patches = [ ];
