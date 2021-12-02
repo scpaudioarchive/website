@@ -13,6 +13,8 @@ ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED.
 PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 ```
 
+### **[Vote for season 5!](/posts/2021/12-02-s5-poll)**
+
 ## Recent Episodes
 
 1. **[SCP-1103: Dr. Wondertainment Young Surgeon's Transplant Kit](/posts/s4/scp-1103)**
@@ -23,9 +25,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Blog Posts
 
+- [Season 5 Selection Poll](/posts/2021/12-02-s5-poll)
 - [Season 3 Update](/posts/2021/07-16-s3-update)
 - [February 2021 Monthly Livestream Recap](/posts/2021/02-07-feb-livestream-recap)
-- [Season 2 Compilation](/posts/2020/12/09-season-2-compilation)
 
 ---
 
