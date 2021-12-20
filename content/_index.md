@@ -17,9 +17,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1004: Nose Crab](/posts/s4/scp-1104)**
-2. *[SCP-1103: Dr. Wondertainment Young Surgeon's Transplant Kit](/posts/s4/scp-1103)*
-3. *[SCP-1102: The Blue Ridge Phenomenon](/posts/s4/scp-1102)*
+1. **[SCP-1105: Neural Polypore](/posts/s4/scp-1105)**
+2. *[SCP-1004: Nose Crab](/posts/s4/scp-1104)*
+3. *[SCP-1103: Dr. Wondertainment Young Surgeon's Transplant Kit](/posts/s4/scp-1103)*
 
 ---
 
