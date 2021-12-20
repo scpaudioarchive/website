@@ -13,8 +13,6 @@ ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED.
 PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 ```
 
-### **[Vote for season 5!](/posts/2021/12-02-s5-poll)**
-
 ## Recent Episodes
 
 1. **[SCP-1105: Neural Polypore](/posts/s4/scp-1105)**
