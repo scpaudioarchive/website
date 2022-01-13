@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1107: A Signal](/posts/s4/scp-1107)**
-2. *[SCP-1006: "Grow Your Own Child" Kit](/posts/s4/scp-1106)*
-3. *[SCP-1105: Neural Polypore](/posts/s4/scp-1105)*
+1. **[SCP-1109: The Painkiller](/posts/s4/scp-1109)**
+2. *[SCP-1107: A Signal](/posts/s4/scp-1107)*
+3. *[SCP-1006: "Grow Your Own Child" Kit](/posts/s4/scp-1106)*
 
 ---
 
