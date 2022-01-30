@@ -15,9 +15,9 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 ## Recent Episodes
 
-1. **[SCP-1110: Videos of a Robbery](/posts/s4/scp-1110)**
-2. *[SCP-1109: The Painkiller](/posts/s4/scp-1109)*
-3. *[SCP-1107: A Signal](/posts/s4/scp-1107)*
+1. **[SCP-1020: Freeze Tag](/posts/s4/scp-1120)**
+2. *[SCP-1110: Videos of a Robbery](/posts/s4/scp-1110)*
+3. *[SCP-1109: The Painkiller](/posts/s4/scp-1109)*
 
 ---
 
