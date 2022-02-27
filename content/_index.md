@@ -31,7 +31,7 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 
 # Listen
 
-Available on **[YouTube](/go/yt)** and all podcast apps. **New episodes on Wednesday and every *other* Sunday.**
+Available on **[YouTube](/go/yt)** and all podcast apps. **New episodes every Sunday.**
 
 **[Apple Podcasts](https://podcasts.apple.com/ca/podcast/scp-foundation-audio-archive/id1499149805) --
 [Spotify](https://open.spotify.com/show/2mm8dLBn8Z3o1NVn8cZSxP) --

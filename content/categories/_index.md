@@ -5,5 +5,5 @@ description: "SCP Foundation Audio Archive - Browse by season numbers or blog ty
 
 ### [Season Information](/season-info)
 
-* **Current season**: [Season 3](/categories/season-3) - SCP-3000 to SCP-3500
-* Previous season: [Season 2](/categories/season-2) - SCP-100 to SCP-150
+* **Current season**: [Season 5](/categories/season-5)
+* Previous season: [Season 4](/categories/season-4)
