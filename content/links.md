@@ -16,11 +16,6 @@ slug: links
 
 # Socials
 
-Follow on:
+{{< partial "social-icons-downstream.html" >}}
 
-[Facebook](https://www.facebook.com/scpaudioarchivepod/) --
-[Twitter](https://twitter.com/scpaudioarchive) --
-[Instagram](https://www.instagram.com/scpaudioarchive/) --
-[Github](https://github.com/scpaudioarchive)
-
-[Return to the main page](/)
+*[Go to our homepage](/)*
