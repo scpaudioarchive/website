@@ -6,32 +6,21 @@ comments: false
 slug: support
 ---
 
-This allows me to continue the podcast, pay for expenses related to the podcast and personal ones (as I head off to university this summer), and upgrade equipment. Thanks to all my former and current patrons and donors!
+Hi, and thanks for considering supporting me :) This podcast is my main source of income at the moment. Your donation allows me to continue the podcast, pay for expenses related to the podcast and personal ones (as I head off to university this summer), and upgrade equipment. Thanks once again!
 
 ## One-time
 
-- **[Paypal](http://paypal.me/scpaudioarchive)</h2>**
-- **[Ko-Fi](https://ko-fi.com/scpaudioarchive)</h2>**
+- **[Paypal](http://paypal.me/scpaudioarchive)**
+- **[Ko-Fi](https://ko-fi.com/scpaudioarchive)**
 
-# **[Patreon](http://patreon.com/scpaudioarchive)** (Recurring)
+## Monthly support
 
-## [Join Level 1](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614326)
-* Thank you for supporting the show <3
-  - **Higher priority on suggestions**
-  - **Occasional access to Patron-only livestream/ recording**
-  - **Access to private Discord channels**
+- **[Patreon](http://patreon.com/scpaudioarchive)**
 
-## **[Join Level 2](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614325)**
-* **Access to episodes: early, ad-free**
-*   **Name in credits for the episode recorded after you join**
-*   Previous benefits
+Perks include:
 
-## [Join Level 3](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614327)
-* Everything in the previous tier
-
-## [Join Level 4](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614361)
-* Everything in the previous tier
-  - Shout-out in credits at the end of **each** episode
-
-## [Join Level 5](https://www.patreon.com/join/scpaudioarchive/checkout?rid=4614370)
-* Everything in the previous tier. Thank you for your support!
+- **Early, ad-free access to episodes**
+- Higher priority on suggestions
+- Access to private Discord channels
+- Occasional access to Patron-only livestreams/ recordings
+- Your name at the end of recording(s)
