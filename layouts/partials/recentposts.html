@@ -1,0 +1,9 @@
+<ul>
+    {{- range first 5 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    <li>
+        <i><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time></i>
+        {{ printf "--" | markdownify }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>

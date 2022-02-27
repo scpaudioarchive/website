@@ -13,19 +13,9 @@ ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED.
 PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.
 ```
 
-## Recent Episodes
+## Recent Posts
 
-1. **[SCP-1112: Shadow Play](/posts/s4/scp-1112)**
-2. *[SCP-1111: The White Dog](/posts/s4/scp-1111)*
-3. *[SCP-1020: Freeze Tag](/posts/s4/scp-1120)*
-
----
-
-## Recent Blog Posts
-
-- [Season 5 Selection Poll](/posts/2021/12-02-s5-poll)
-- [Season 3 Update](/posts/2021/07-16-s3-update)
-- [February 2021 Monthly Livestream Recap](/posts/2021/02-07-feb-livestream-recap)
+{{< partial "recentposts.html" >}}
 
 ---
 
