@@ -12,8 +12,6 @@ slug: links
 
 ### [Recent episodes + blog posts](/posts)
 
-### [Live events](/live)
-
 ### [Join the Discord](/go/discord)
 
 # Socials

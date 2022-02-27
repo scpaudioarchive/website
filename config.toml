@@ -151,11 +151,11 @@ disableHugoGeneratorInject = false
     name       = "Posts"
     url        = "/posts"
     weight = 200
-  [[menu.main]]
-    identifier = "live"
-    name       = "Live"
-    url        = "/live"
-    weight = 300
+#  [[menu.main]]
+#    identifier = "live"
+#    name       = "Live"
+#    url        = "/live"
+#    weight = 300
   [[menu.main]]
     identifier = "support"
     name       = "Support"
