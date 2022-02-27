@@ -21,22 +21,11 @@
 
 Broken link? File an [issue][1] or let someone know in [Discord][2].
 
-Clone this repository: `git clone
-https://github.com/scpaudioarchive/website.git`
+Clone this repository: `git clone https://github.com/scpaudioarchive/website`
 
-Run a `nix-shell` or use `direnv`!
-
-PR's (target `main` in most cases) or patches are welcome (email in [contact
-page][3] or `git log`).
+Run a `nix-shell` or use `direnv`! Then fork the repository on GitHub and send a Pull Request :)
 
 Any questions? Join the [Discord server][2], or [email][3] me.
-
-## Standards
-
-### Markdown
-
-Use inline HTML only if necessary and appropriate. You
-may just insert it or use the "rawhtml" shortcode.
 
 [0]: https://github.com/gohugoio/hugo/releases/latest
 [1]: https://github.com/scpaudioarchive/website/issues/new
