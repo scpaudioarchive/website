@@ -5,32 +5,20 @@ draft: false
 comments: false
 ---
 
-Weekly SCP Readings. New episodes Wednesdays/ Sundays.
+Weekly SCP Readings. New episodes Sundays.
 
 **Contact email: [scpfoundationaudioarchive AT gmail DOT com](mailto:scpfoundationaudioarchive@gmail.com)**
 
-Advertising: Please contact me directly via email.
-
-GPG Key + download: Available on the [OpenPGP
-Keyserver](https://keys.openpgp.org/search?q=scpfoundationaudioarchive@gmail.com). Renewed
-regularly, please remember to attach your own key or have it accessible in some way.
+Advertising: Contact me directly via email.
 
 ---
 
-[Suggest an SCP](/suggest)
+- [Suggest an SCP](/suggest)
+- [Follow on Social Media](/)
+- [Support](/support)
 
-[Follow on Social Media](/)
+## This Website
 
-[Live Events](/live)
+Source code available on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive). Issues, Pull Requests, and patches are welcome.
 
-[Support](/support)
-
----
-
-## Policies and Guidelines
-
-Available on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive), issues, PRs and patches welcome.
-
-### Website Information and Policy
-
-[Site Policy](/site-policy)
+- [Site Policy](/site-policy)
