@@ -5,7 +5,7 @@ draft: false
 comments: false
 ---
 
-Weekly SCP Readings. New episodes Sundays.
+Weekly SCP Readings, new episodes Sundays. Listen on your [favoutite podcast app or YouTube](/#listen).
 
 **Contact email: [scpfoundationaudioarchive AT gmail DOT com](mailto:scpfoundationaudioarchive@gmail.com)**
 
@@ -19,9 +19,8 @@ Advertising: Contact me directly via email.
 
 ## This Website
 
-Source code available on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive). Issues, Pull Requests, and patches are welcome.
+This website's source code is available on [GitHub](https://github.com/scpaudioarchive/website), contributions are welcome. View our [Site Policy](/site-policy).
 
-- [Site Policy](/site-policy)
 ## Land acknowledgement
 
 Our podcast is produced on the traditional territory of many nations, including the Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ, Ho-de-no-sau-nee-ga (Haudenosaunee), Mississauga, and Mississaugas of the Credit First Nation land.
