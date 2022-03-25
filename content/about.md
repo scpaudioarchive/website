@@ -22,3 +22,6 @@ Advertising: Contact me directly via email.
 Source code available on [GitHub](https://github.com/scpaudioarchive/scpaudioarchive). Issues, Pull Requests, and patches are welcome.
 
 - [Site Policy](/site-policy)
+## Land acknowledgement
+
+Our podcast is produced on the traditional territory of many nations, including the Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ, Ho-de-no-sau-nee-ga (Haudenosaunee), Mississauga, and Mississaugas of the Credit First Nation land.
