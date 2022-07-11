@@ -5,5 +5,5 @@ description: "SCP Foundation Audio Archive - Browse by season numbers or blog ty
 
 ### [Season Information](/season-info)
 
-* **Current season**: [Season 5](/categories/season-5)
-* Previous season: [Season 4](/categories/season-4)
+* **Current season**: [Season 6](/categories/season-6)
+* Previous season: [Season 5](/categories/season-5)
