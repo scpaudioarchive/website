@@ -10,8 +10,7 @@ Hi, and thanks for considering supporting me :) This podcast is my main source o
 
 ## One-time
 
-- **[Paypal](http://paypal.me/scpaudioarchive)**
-- **[Ko-Fi](https://ko-fi.com/scpaudioarchive)**
+- **[Ko-Fi](https://ko-fi.com/scpaudioarchive)** (accepts Paypal)
 
 ## Monthly support
 
